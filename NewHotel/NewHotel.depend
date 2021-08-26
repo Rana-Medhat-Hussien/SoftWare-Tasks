@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1630008339 source:c:\users\hp\downloads\newhotel\src\guest.cpp
+	"guest.h"
+
+1630008458 c:\users\hp\downloads\newhotel\include\guest.h
+	<string>
+
+1630008319 source:c:\users\hp\downloads\newhotel\src\room.cpp
+	"room.h"
+
+1630008458 c:\users\hp\downloads\newhotel\include\room.h
+
+1630012463 source:c:\users\hp\downloads\newhotel\main.cpp
+	<iostream>
+	"room.h"
+	"guest.h"
+	<string>
+	<list>
+
